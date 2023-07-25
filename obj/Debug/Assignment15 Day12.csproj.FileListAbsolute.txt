@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Day12\Assignment15 Day12\Assignment15 Day12\bin\Debug\Assignment15 Day12.exe.config
+D:\SimpliLearn Course\Day12\Assignment15 Day12\Assignment15 Day12\bin\Debug\Assignment15 Day12.exe
+D:\SimpliLearn Course\Day12\Assignment15 Day12\Assignment15 Day12\bin\Debug\Assignment15 Day12.pdb
+D:\SimpliLearn Course\Day12\Assignment15 Day12\Assignment15 Day12\obj\Debug\Assignment15 Day12.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Day12\Assignment15 Day12\Assignment15 Day12\obj\Debug\Assignment15 Day12.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Day12\Assignment15 Day12\Assignment15 Day12\obj\Debug\Assignment15 Day12.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Day12\Assignment15 Day12\Assignment15 Day12\obj\Debug\Assignment15 Day12.exe
+D:\SimpliLearn Course\Day12\Assignment15 Day12\Assignment15 Day12\obj\Debug\Assignment15 Day12.pdb
